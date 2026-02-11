@@ -1,0 +1,14 @@
+{
+  "template": "supplierIntro",
+  "subject": "Exploring Long-Term Export Partnership Opportunity",
+  "from": {
+    "email": "support@mail.nkaglobalexports.com",
+    "name": "Ankit Kapoor | NKA GLOBAL EXPORTS"
+  },
+  "replyTo": "contact@mail.nkaglobalexports.com",
+  "csvPath": "./data/emails.csv",
+  "dynamicData": {
+    "company": "NKA Global Exports",
+    "sender": "Ankit Kapoor"
+  }
+}
