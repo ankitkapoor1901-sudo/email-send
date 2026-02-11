@@ -1,0 +1,14 @@
+{
+    "template": "embassayFollowUp",
+    "subject": "Follow up: Request for Trade Information and Importer–Exporter Contacts",
+    "from": {
+        "email": "info@gov.nkaglobalexports.com",
+        "name": "Ankit Kapoor | NKA GLOBAL EXPORTS"
+    },
+    "replyTo": "info@nkaglobalexports.com",
+    "csvPath": "./data/embassayEmails.csv",
+    "dynamicData": {
+        "company": "NKA Global Exports",
+        "sender": "Ankit Kapoor"
+    }
+}
