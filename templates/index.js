@@ -4,5 +4,5 @@ module.exports = {
   embassayIntro: require('./embassayIntro'),
   supplierInbox: require('./supplierInbox'),
   embassayFollowUp: require('./embassayFollowUp'),
-  buyerIntro: require('./buyerIntro')
+  buyerIntro: require('./buyerIntro_en')
 };
